@@ -1,0 +1,11 @@
+#header {
+  font-size: 14px;
+  font-family: 'Arimo', sans-serif;
+}
+
+body{padding-top:80px;}
+.jumbotron{margin-top:12px; padding-top:30px; padding-bottom:20px;}
+td span:last-of-type{display:none;}
+font-family: 'PT Serif', serif;
+color: rgba (6,6,112,1)
+}
